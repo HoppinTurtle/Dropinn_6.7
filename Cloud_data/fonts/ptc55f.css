@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PTSansCaptionRegular';
+    src: url('ptc55f.eot');
+    src: url('ptc55f.eot') format('embedded-opentype'),
+        /* url('ptc55f.woff') format('woff'), Check for currency*/
+         url('ptc55f.ttf') format('truetype'),
+         url('ptc55f.svg#PTSansCaptionRegular') format('svg');
+}
